@@ -1,1 +1,1 @@
-# sudoko
+# sudoko solver
